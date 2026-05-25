@@ -1,4 +1,4 @@
-# Menu Search Optimization | UX/UI Research
+# Optimal Menu Depth: An Empirical UX Study on Hierarchical Navigation
 
 A Survey research to find the optimal depth of menus for user interfaces.
 
